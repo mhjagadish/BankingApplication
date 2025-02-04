@@ -1,3 +1,3 @@
 # BankingApplication
-REST API
-technology used : SpringBoot, Hibernate, SQL, java, Eclipse,and  use Postman for testing API.
+REST API,  
+Technology used : SpringBoot, Hibernate, SQL, java, Eclipse,and  use Postman for testing API.
